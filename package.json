@@ -1,0 +1,22 @@
+{
+  "name": "simple-node-website",
+  "version": "1.0.0",
+  "description": "A simple website for The Odin Project curriculum, exploring http, url, and file-system modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trumbleup/simple-node-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trumbleup/simple-node-website/issues"
+  },
+  "homepage": "https://github.com/Trumbleup/simple-node-website#readme",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  }
+}
